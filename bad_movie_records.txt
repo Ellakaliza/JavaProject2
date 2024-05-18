@@ -1,0 +1,145 @@
+(a) Error and type: invalid genre, semantic
+(b) 1990,Predator 2,103,"Action",R,6.2,Stephen Hopkins,Adam Baldwin,Robert Davi,Kevin Peter Hall,
+(c) Movies1990.csv
+(d) Line number: 4
+*****************************************************
+(a) Error and type: invalid score, syntax
+(b) 1990,Dick Tracy,105,Action,PG,"6.1",Warren Beatty,Charlie Korsmo,Warren Beatty,Seymour Cassel,
+(c) Movies1990.csv
+(d) Line number: 14
+*****************************************************
+(a) Error and type: excess fields, syntax
+(b) 1990,Total Recall,113,Action,R,7.5,Paul Verhoeven,Ronny Cox,Rachel Ticotin,Marshall Bell,actor 4?
+(c) Movies1990.csv
+(d) Line number: 16
+*****************************************************
+(a) Error and type: invalid year, semantic
+(b) 2991,Hudson Hawk,100,Action,R,5.7,Michael Lehmann,Bruce Willis,James Coburn,Richard E. Grant
+(c) Movies1991.csv
+(d) Line number: 10
+*****************************************************
+(a) Error and type: invalid rating, semantic
+(b) 1991,Bill & Ted's Bogus Journey,93,Adventure,PJ,6.2,Peter Hewitt,Keanu Reeves,George Carlin,Alex Winter
+(c) Movies1991.csv
+(d) Line number: 16
+*****************************************************
+(a) Error and type: invalid duration, semantic
+(b) 1991,Hook,333,Adventure,PG,6.7,Steven Spielberg,Robin Williams,Julia Roberts,Bob Hoskins
+(c) Movies1991.csv
+(d) Line number: 26
+*****************************************************
+(a) Error and type: invalid score, syntax
+(b) l992,Unforgiven,131,Drama,R,8.3,Clint Eastwood,Clint Eastwood,Morgan Freeman,Frances Fisher
+(c) Movies1992.csv
+(d) Line number: 21
+*****************************************************
+(a) Error and type: invalid genre, semantic
+(b) 1992,Batman Returns,126,Aktion,PG-13,7,Tim Burton,Michael Gough,Vincent Schiavelli,Andrew Bryniarski
+(c) Movies1992.csv
+(d) Line number: 27
+*****************************************************
+(a) Error and type: invalid score, semantic
+(b) 1992,Aladdin,90,Adventure,G,80,Ron Clements,Robin Williams,Frank Welker,Scott Weinger
+(c) Movies1992.csv
+(d) Line number: 29
+*****************************************************
+(a) Error and type: invalid duration, semantic
+(b) 1993,"Blood In, Blood Out",330,Crime,R,8,Taylor Hackford,Delroy Lindo,Jesse Borrego,Raymond Cruz
+(c) Movies1993.csv
+(d) Line number: 7
+*****************************************************
+(a) Error and type: invalid rating, semantic
+(b) 1993,Dazed and Confused,102,Comedy,RRR,7.7,Richard Linklater,Milla Jovovich,Adam Goldberg,Cole Hauser
+(c) Movies1993.csv
+(d) Line number: 8
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) 1993,Hocus Pocus,96,Comedy,PG,6.7,,Vinessa Shaw,Omri Katz,Larry Bagby
+(c) Movies1993.csv
+(d) Line number: 22
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) 1994,There Goes My Baby,99,Comedy,R,6.4,Floyd Mutrux,Ricky Schroder,,Seymour Cassel
+(c) Movies1994.csv
+(d) Line number: 1
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) 1994,Wyatt Earp,212,Adventure,PG-13,,Lawrence Kasdan,Dennis Quaid,Catherine O'Hara,Isabella Rossellini
+(c) Movies1994.csv
+(d) Line number: 16
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) 1994,Richie Rich,,Comedy,PG,5.2,Donald Petrie,Macaulay Culkin,John Larroquette,Jonathan Hyde
+(c) Movies1994.csv
+(d) Line number: 20
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) 1996,Bound,109,Krime,R,,Lana Wachowski,Christopher Meloni,Kevin Michael Richardson,Peter Spellos
+(c) Movies1996.csv
+(d) Line number: 9
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) l996,Bogus,110,Comedy,,5.3,Norman Jewison,Haley Joel Osment,Nancy Travis,Andrea Martin
+(c) Movies1996.csv
+(d) Line number: 11
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) -1996,The Fan,116,Action,R,,Tony Scott,Robert De Niro,Kurt Fuller,Ellen Barkin
+(c) Movies1996.csv
+(d) Line number: 28
+*****************************************************
+(a) Error and type: invalid duration, semantic
+(b) 1996,Striptease,1170,Comedy,R,4.3,Andrew Bergman,Demi Moore,Rumer Willis,Paul Guilfoyle
+(c) Movies1996.csv
+(d) Line number: 45
+*****************************************************
+(a) Error and type: invalid year, semantic
+(b) 2996,Broken Arrow,900,Action,R,60,John Woo,Delroy Lindo,Samantha Mathis,Bob Gunton
+(c) Movies1996.csv
+(d) Line number: 67
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) 1997,Chasing Amy,113,Comedy,R,7.3,Kevin Smith,Matt Damon,Ethan Suplee,
+(c) Movies1997.csv
+(d) Line number: 27
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) 1999,Crazy in Alabama,111,Komedy,PG-13,6.3,Antonio Banderas,Meat Loaf,,Noah Emmerich
+(c) Movies1999.csv
+(d) Line number: 13
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) l999,A Dog of Flanders,,,PG,6.3,Kevin Brodie,Bruce McGill,Cheryl Ladd,Jack Warden
+(c) Movies1999.csv
+(d) Line number: 16
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) 2999,Foolish,384,Comedy,R,4.3,Dave Meyers,,Clifton Powell,Marla Gibbs
+(c) Movies1999.csv
+(d) Line number: 30
+*****************************************************
+(a) Error and type: invalid genre, semantic
+(b) 1999,Snow Falling on Cedars,127,Druma,PG-13,6.8,Scott Hicks,Rick Yune,Reeve Carney,Daniel von Bargen
+(c) Movies1999.csv
+(d) Line number: 52
+*****************************************************
+(a) Error and type: invalid rating, semantic
+(b) 1999,Random Hearts,133,Drama,RRR,5.1,Sydney Pollack,Harrison Ford,Kristin Scott Thomas,Bill Cobbs
+(c) Movies1999.csv
+(d) Line number: 80
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) -1999,The Bone Collector,118,Crime,,6.7,Phillip Noyce,Denzel Washington,Angelina Jolie Pitt,Leland Orser
+(c) Movies1999.csv
+(d) Line number: 103
+*****************************************************
+(a) Error and type: invalid genre, semantic
+(b) 1999,The Thomas Crown Affair,113,Krime,R,6.8,John McTiernan,Mark Margolis,Faye Dunaway,Denis Leary
+(c) Movies1999.csv
+(d) Line number: 106
+*****************************************************
+(a) Error and type: missing fields, syntax
+(b) 1999,,102,Adventure,PG,7.3,Dean Parisot,Alan Rickman,Enrico Colantoni,Robin Sachs
+(c) Movies1999.csv
+(d) Line number: 107
+*****************************************************
